@@ -5,5 +5,5 @@ workflows:
   sample:
   jobs:
     - node/test:
-      version: '16.10''
+      version: '16.10'
       pkg-manager: npm 
